@@ -1,0 +1,70 @@
+{
+    "account": null,
+    "app_name": "com.huanmeng.zhanjian2",
+    "bathroom_count": 2,
+    "bathroom_feature_count": 1,
+    "check_page": true,
+    "check_update": false,
+    "daily_automation": {
+        "auto_bath_repair": true,
+        "auto_battle": true,
+        "auto_exercise": true,
+        "auto_expedition": true,
+        "auto_gain_bonus": true,
+        "auto_normal_fight": true,
+        "auto_set_support": false,
+        "battle_type": "困难航母",
+        "normal_fight_tasks": [],
+        "quick_repair_limit": null,
+        "stop_max_ship": false
+    },
+    "debug": true,
+    "decisive_battle": {
+        "chapter": 6,
+        "flagship_priority": [
+            "U-1405",
+            "U-47",
+            "U-1206"
+        ],
+        "full_destroy": true,
+        "level1": [
+            "鲃鱼",
+            "伊-25",
+            "M-296",
+            "U-1206",
+            "射水鱼",
+            "U-47"
+        ],
+        "level2": [
+            "U-96",
+            "U-505",
+            "U-81",
+            "大青花鱼"
+        ],
+        "repair_level": 1
+    },
+    "default_plan_root": "D:\\__Playground\\Auto-WSGR\\autowsgr\\data\\plans",
+    "default_ship_name_file": "D:\\__Playground\\Auto-WSGR\\autowsgr\\data\\ocr\\ship_name.yaml",
+    "delay": 1.5,
+    "dock_full_destroy": true,
+    "emulator_name": "127.0.0.1:7555",
+    "emulator_process_name": "MuMuPlayer.exe",
+    "emulator_start_cmd": "D:/Program Files/NetEase/MuMu Player 12/shell/MuMuPlayer.exe",
+    "emulator_type": "MuMu",
+    "game_app": "官服",
+    "log_dir": "log\\2024-12-10_23-54-19",
+    "log_level": "DEBUG",
+    "log_root": "log",
+    "ocr_backend": "easyocr",
+    "password": null,
+    "plan_root": "D:\\__Playground\\Auto-WSGR\\examples\\plans",
+    "ship_name_file": "D:\\__Playground\\Auto-WSGR\\examples\\ship_name.yaml",
+    "show_android_input": true,
+    "show_chapter_info": true,
+    "show_decisive_battle_info": true,
+    "show_enemy_rules": true,
+    "show_fight_stage": true,
+    "show_map_node": false,
+    "show_match_fight_stage": true,
+    "show_ocr_info": true
+}

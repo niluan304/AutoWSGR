@@ -1,0 +1,156 @@
+23:46:48 autowsgr  INFO  | 资源加载成功
+23:46:49 autowsgr  INFO  | Android Connected!
+23:46:50 autowsgr  INFO  | resolution:(1280, 720)
+23:46:50 autowsgr  INFO  | 控制器初始化成功
+23:46:54 autowsgr  INFO  | OCR 后端初始化成功
+23:46:55 autowsgr WARNING| ===================WARNING===================
+23:46:55 autowsgr WARNING| 无法确定当前页面, 尝试重启游戏
+23:46:55 autowsgr WARNING| ====================END====================
+23:47:06 autowsgr  DEBUG | ('click (0.888 0.865)',)
+23:47:10 autowsgr  INFO  | 正在尝试关闭新闻, 领取奖励
+23:47:21 autowsgr  INFO  | 游戏启动成功!
+23:47:22 autowsgr  DEBUG | ('click (0.938 0.889)',)
+23:47:24 autowsgr  DEBUG | ('click (0.689 0.046)',)
+23:47:25 autowsgr  DEBUG | ('click (0.120 0.209)',)
+23:47:29 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(66.0), np.float64(47.5)), 'Ex-6', np.float64(0.9928023219108582))]",)
+23:47:29 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(33.0), np.float64(23.0)], 'Ex-6', np.float64(0.9928023219108582))]",)
+23:47:29 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(66.0), np.float64(47.5)), 'Ex-6', np.float64(0.9928023219108582))]",)
+23:47:29 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(33.0), np.float64(23.0)], 'Ex-6', np.float64(0.9928023219108582))]",)
+23:47:30 autowsgr  INFO  | 识别决战地图参数, 第 1 小节正在进行
+23:47:30 autowsgr  DEBUG | ('click (0.521 0.926)',)
+23:47:38 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(88.0), np.float64(23.5)), 'Lv.1(3/10)', np.float64(0.6575830838875065))]",)
+23:47:38 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(44.0), np.float64(11.0)], 'Lv.1(3/10)', np.float64(0.6575830838875065))]",)
+23:47:38 autowsgr  DEBUG | ('当前经验：3，升级需要经验：10',)
+23:47:39 autowsgr  DEBUG | ('Ship_ICON position: (491.25, 98.25)',)
+23:47:40 autowsgr  INFO  | 识别决战地图参数, 第 B 节点正在进行
+23:47:40 autowsgr  DEBUG | ('click (0.703 0.926)',)
+23:47:43 autowsgr  INFO  | 舰船识别结果为: [None, None, None, None, None, None, None]
+23:47:43 autowsgr  INFO  | 等级识别结果: [None, None, None, None, None, None, None]
+23:47:43 autowsgr  DEBUG | ('click (0.100 0.500)',)
+23:47:45 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(524.0), np.float64(35.0)), '0-505', np.float64(0.4839041902562787))]",)
+23:47:45 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(262.0), np.float64(17.0)], 'U-505', np.float64(0.4839041902562787))]",)
+23:47:45 autowsgr  INFO  | 其它可用舰船：['U-505']
+23:47:45 autowsgr  DEBUG | ('click (0.050 0.050)',)
+23:47:47 autowsgr  DEBUG | ("拥有舰船: {None, 'U-505'}",)
+23:47:47 autowsgr  DEBUG | ("当前最优：['', 'U-505', '', '', '', '', '']",)
+23:47:47 autowsgr  DEBUG | ("拥有舰船: {None, 'U-505'}",)
+23:47:47 autowsgr  DEBUG | ("当前最优：['', 'U-505', '', '', '', '', '']",)
+23:47:47 autowsgr  DEBUG | ('click (0.031 0.056)',)
+23:47:48 autowsgr  DEBUG | ('click (0.037 0.061)',)
+23:47:49 autowsgr  DEBUG | ('click (0.625 0.556)',)
+23:47:50 autowsgr  INFO  | 识别决战地图参数, 第 1 小节正在进行
+23:47:50 autowsgr  DEBUG | ('click (0.521 0.926)',)
+23:47:54 autowsgr  DEBUG | ('click (0.312 0.417)',)
+23:47:55 autowsgr  DEBUG | ('click (0.501 0.851)',)
+23:47:57 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(72.0), np.float64(35.0)), '10', np.float64(0.9998240835866815))]",)
+23:47:57 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(36.0), np.float64(17.0)], '10', np.float64(0.9998240835866815))]",)
+23:47:57 autowsgr  DEBUG | ('数字解析结果：[([np.float64(36.0), np.float64(17.0)], 10, np.float64(0.9998240835866815))]',)
+23:47:57 autowsgr  DEBUG | ('当前可用费用为：10',)
+23:47:57 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(193.0), np.float64(32.0)), 'x4', np.float64(0.8397101215605505)), ((np.float64(513.0), np.float64(32.0)), 'x4', np.float64(0.8474434970655087)), ((np.float64(834.0), np.float64(32.0)), 'x4', np.float64(0.9257550300140573)), ((np.float64(1154.0), np.float64(33.0)), 'x6', np.float64(0.9842294129281408)), ((np.float64(1474.0), np.float64(32.0)), 'x6', np.float64(0.9796426826867328))]",)
+23:47:57 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(96.0), np.float64(16.0)], 'x4', np.float64(0.8397101215605505)), ([np.float64(256.0), np.float64(16.0)], 'x4', np.float64(0.8474434970655087)), ([np.float64(417.0), np.float64(16.0)], 'x4', np.float64(0.9257550300140573)), ([np.float64(577.0), np.float64(16.0)], 'x6', np.float64(0.9842294129281408)), ([np.float64(737.0), np.float64(16.0)], 'x6', np.float64(0.9796426826867328))]",)
+23:47:57 autowsgr  DEBUG | ('数字解析结果：[([np.float64(96.0), np.float64(16.0)], 4, np.float64(0.8397101215605505)), ([np.float64(256.0), np.float64(16.0)], 4, np.float64(0.8474434970655087)), ([np.float64(417.0), np.float64(16.0)], 4, np.float64(0.9257550300140573)), ([np.float64(577.0), np.float64(16.0)], 6, np.float64(0.9842294129281408)), ([np.float64(737.0), np.float64(16.0)], 6, np.float64(0.9796426826867328))]',)
+23:47:57 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(146.0), np.float64(21.0)), 'M-296', np.float64(0.9396602560435744))]",)
+23:47:57 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(73.0), np.float64(10.0)], 'M-296', np.float64(0.9396602560435744))]",)
+23:47:57 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(150.0), 20.5), '瑞凤', np.float64(0.6902225796116692))]",)
+23:47:57 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(75.0), 10.0], '瑞凤', np.float64(0.6902225796116692))]",)
+23:47:58 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(146.0), 20.5), '祥凤', np.float64(0.9720681901158731))]",)
+23:47:58 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(73.0), 10.0], '祥凤', np.float64(0.9720681901158731))]",)
+23:47:58 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(146.0), np.float64(22.0)), '0-81', np.float64(0.8916254043579102))]",)
+23:47:58 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(73.0), np.float64(11.0)], 'U-81', np.float64(0.8916254043579102))]",)
+23:47:58 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(145.5), 20.5), '射水鱼', np.float64(0.9942942102636168))]",)
+23:47:58 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(72.0), 10.0], '射水鱼', np.float64(0.9942942102636168))]",)
+23:47:58 autowsgr  DEBUG | ('可购买舰船：', {'M-296': (4, (0.25, 0.5)), '瑞凤': (4, (0.375, 0.5)), '祥凤': (4, (0.5, 0.5)), 'U-81': (6, (0.625, 0.5)), '射水鱼': (6, (0.75, 0.5))})
+23:47:58 autowsgr  DEBUG | ('选择购买：M-296，花费：4，点击位置：(0.25, 0.5)',)
+23:47:58 autowsgr  DEBUG | ('click (0.250 0.500)',)
+23:47:59 autowsgr  DEBUG | ('选择购买：射水鱼，花费：6，点击位置：(0.75, 0.5)',)
+23:47:59 autowsgr  DEBUG | ('click (0.750 0.500)',)
+23:47:59 autowsgr  DEBUG | ('click (0.604 0.926)',)
+23:48:00 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(88.0), np.float64(23.5)), 'Lv.1(0/10)', np.float64(0.9674751016354924))]",)
+23:48:00 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(44.0), np.float64(11.0)], 'Lv.1(0/10)', np.float64(0.9674751016354924))]",)
+23:48:00 autowsgr  DEBUG | ('当前经验：0，升级需要经验：10',)
+23:48:01 autowsgr  DEBUG | ('Ship_ICON position: (491.25, 180.75)',)
+23:48:02 autowsgr  INFO  | 识别决战地图参数, 第 A 节点正在进行
+23:48:02 autowsgr  DEBUG | ('click (0.214 0.894)',)
+23:48:03 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(1067.0), np.float64(7.5)), '', np.float64(0.0)), ((np.float64(1167.0), np.float64(4.0)), '', np.float64(0.0)), ((np.float64(1171.0), np.float64(8.0)), '', np.float64(0.0))]",)
+23:48:03 autowsgr  DEBUG | ('修正OCR结果：[]',)
+23:48:03 autowsgr  INFO  | 使用技能获得: []
+23:48:03 autowsgr  DEBUG | ('click (0.214 0.894)',)
+23:48:04 autowsgr  DEBUG | ("拥有舰船: {'M-296', '射水鱼'}",)
+23:48:04 autowsgr  DEBUG | ("当前最优：['', 'M-296', '射水鱼', '', '', '', '']",)
+23:48:04 autowsgr  DEBUG | ("拥有舰船: {'M-296', '射水鱼'}",)
+23:48:04 autowsgr  DEBUG | ("当前最优：['', 'M-296', '射水鱼', '', '', '', '']",)
+23:48:05 autowsgr  DEBUG | ('click (0.703 0.926)',)
+23:48:07 autowsgr  DEBUG | ("编队更改为：['', 'M-296', '射水鱼', '', '', '', '']",)
+23:48:08 autowsgr  INFO  | 舰船识别结果为: [None, None, None, None, None, None, None]
+23:48:08 autowsgr  INFO  | 等级识别结果: [None, None, None, None, None, None, None]
+23:48:08 autowsgr  DEBUG | ('更改1号位舰船为 M-296',)
+23:48:08 autowsgr  DEBUG | ('click (0.058 0.411)',)
+23:48:10 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(239.0), np.float64(33.5)), '射水鱼', np.float64(0.996087676864463)), ((np.float64(524.0), np.float64(35.0)), 'M-296', np.float64(0.9325928791263796))]",)
+23:48:10 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(119.0), np.float64(16.0)], '射水鱼', np.float64(0.996087676864463)), ([np.float64(262.0), np.float64(17.0)], 'M-296', np.float64(0.9325928791263796))]",)
+23:48:10 autowsgr  INFO  | 更改编队可用舰船：['射水鱼', 'M-296']
+23:48:10 autowsgr  DEBUG | ('click (0.205 0.503)',)
+23:48:11 autowsgr  DEBUG | ('更改2号位舰船为 射水鱼',)
+23:48:11 autowsgr  DEBUG | ('click (0.175 0.411)',)
+23:48:13 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(239.0), np.float64(33.5)), '射水鱼', np.float64(0.9960229463404969))]",)
+23:48:13 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(119.0), np.float64(16.0)], '射水鱼', np.float64(0.9960229463404969))]",)
+23:48:13 autowsgr  INFO  | 更改编队可用舰船：['射水鱼']
+23:48:13 autowsgr  DEBUG | ('click (0.093 0.501)',)
+23:48:14 autowsgr  DEBUG | ('click (0.938 0.926)',)
+23:48:15 autowsgr  DEBUG | ('waiting:', ['spot_enemy_success', 'formation', 'fight_period'], '  ')
+23:48:15 autowsgr  DEBUG | ('click (0.396 0.963)',)
+23:48:16 autowsgr  DEBUG | ('click (0.396 0.963)',)
+23:48:16 autowsgr  DEBUG | ('click (0.396 0.963)',)
+23:48:16 autowsgr  INFO  | matched: spot_enemy_success
+23:48:17 autowsgr  DEBUG | ("enemys:{'NAP': 4, 'CL': 2, 'AP': 4, 'ALL': 6}",)
+23:48:17 autowsgr  DEBUG | ('click (0.891 0.928)',)
+23:48:17 autowsgr  DEBUG | ('waiting:', ['formation', 'fight_period'], '  ')
+23:48:19 autowsgr  INFO  | matched: fight_period
+23:48:19 autowsgr  DEBUG | ('waiting:', ['night', 'result'], '  ')
+23:48:32 autowsgr  INFO  | matched: result
+23:48:34 autowsgr  DEBUG | ('click (0.953 0.954)',)
+23:48:35 autowsgr  DEBUG | ('click (0.953 0.954)',)
+23:48:36 autowsgr  DEBUG | ('click (0.953 0.954)',)
+23:48:37 autowsgr  DEBUG | ('waiting:', ['battle_page'], '  ')
+23:48:38 autowsgr  INFO  | matched: battle_page
+23:48:38 autowsgr  INFO  | [-1, 0, 0, -1, -1, -1, -1]
+23:48:38 autowsgr  DEBUG | ('click (0.312 0.417)',)
+23:48:39 autowsgr  DEBUG | ('click (0.501 0.851)',)
+23:48:41 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(70.0), np.float64(34.0)), '8', np.float64(0.9999897480273745))]",)
+23:48:41 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(35.0), np.float64(17.0)], '8', np.float64(0.9999897480273745))]",)
+23:48:41 autowsgr  DEBUG | ('数字解析结果：[([np.float64(35.0), np.float64(17.0)], 8, np.float64(0.9999897480273745))]',)
+23:48:41 autowsgr  DEBUG | ('当前可用费用为：8',)
+23:48:42 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(193.0), np.float64(32.0)), 'x4', np.float64(0.8397101215605505)), ((np.float64(513.0), np.float64(32.0)), 'x4', np.float64(0.8474434970655087)), ((np.float64(834.0), np.float64(32.0)), 'x8', np.float64(0.9907176871048798)), ((np.float64(1154.0), np.float64(33.0)), 'x6', np.float64(0.9727009137688561)), ((np.float64(1231.0), np.float64(3.0)), '', np.float64(0.0)), ((np.float64(1475.0), np.float64(33.0)), 'x6', np.float64(0.9576249712436814))]",)
+23:48:42 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(96.0), np.float64(16.0)], 'x4', np.float64(0.8397101215605505)), ([np.float64(256.0), np.float64(16.0)], 'x4', np.float64(0.8474434970655087)), ([np.float64(417.0), np.float64(16.0)], 'x8', np.float64(0.9907176871048798)), ([np.float64(577.0), np.float64(16.0)], 'x6', np.float64(0.9727009137688561)), ([np.float64(737.0), np.float64(16.0)], 'x6', np.float64(0.9576249712436814))]",)
+23:48:42 autowsgr  DEBUG | ('数字解析结果：[([np.float64(96.0), np.float64(16.0)], 4, np.float64(0.8397101215605505)), ([np.float64(256.0), np.float64(16.0)], 4, np.float64(0.8474434970655087)), ([np.float64(417.0), np.float64(16.0)], 8, np.float64(0.9907176871048798)), ([np.float64(577.0), np.float64(16.0)], 6, np.float64(0.9727009137688561)), ([np.float64(737.0), np.float64(16.0)], 6, np.float64(0.9576249712436814))]',)
+23:48:42 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(144.0), 20.5), '瑞凤', np.float64(0.6949052926460559))]",)
+23:48:42 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(72.0), 10.0], '瑞凤', np.float64(0.6949052926460559))]",)
+23:48:42 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(149.0), 20.5), '祥凤', np.float64(0.9768385724973037))]",)
+23:48:42 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(74.0), 10.0], '祥凤', np.float64(0.9768385724973037))]",)
+23:48:42 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(146.0), np.float64(21.0)), 'M-296', np.float64(0.9820054160057277))]",)
+23:48:42 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(73.0), np.float64(10.0)], 'M-296', np.float64(0.9820054160057277))]",)
+23:48:42 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(146.0), np.float64(22.0)), '0-81', np.float64(0.8916254043579102))]",)
+23:48:42 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(73.0), np.float64(11.0)], 'U-81', np.float64(0.8916254043579102))]",)
+23:48:42 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(144.0), 20.5), '训练的结晶', np.float64(0.9613825899285735))]",)
+23:48:42 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(72.0), 10.0], '训练的结晶', np.float64(0.9613825899285735))]",)
+23:48:42 autowsgr  DEBUG | ('可购买舰船：', {'瑞凤': (4, (0.25, 0.5)), '祥凤': (4, (0.375, 0.5)), 'M-296': (8, (0.5, 0.5)), 'U-81': (6, (0.625, 0.5)), '训练的结晶': (6, (0.75, 0.5))})
+23:48:42 autowsgr  DEBUG | ('选择购买：U-81，花费：6，点击位置：(0.625, 0.5)',)
+23:48:42 autowsgr  DEBUG | ('click (0.625 0.500)',)
+23:48:43 autowsgr  DEBUG | ('click (0.604 0.926)',)
+23:48:44 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(88.0), np.float64(23.5)), 'Lv.1(3/10)', np.float64(0.6575830838875065))]",)
+23:48:44 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(44.0), np.float64(11.0)], 'Lv.1(3/10)', np.float64(0.6575830838875065))]",)
+23:48:44 autowsgr  DEBUG | ('当前经验：3，升级需要经验：10',)
+23:48:45 autowsgr  DEBUG | ('Ship_ICON position: (491.25, 98.25)',)
+23:48:46 autowsgr  INFO  | 识别决战地图参数, 第 B 节点正在进行
+23:48:46 autowsgr  DEBUG | ("拥有舰船: {'M-296', '射水鱼', 'U-81'}",)
+23:48:46 autowsgr  DEBUG | ("当前最优：['', 'M-296', '射水鱼', 'U-81', '', '', '']",)
+23:48:46 autowsgr  DEBUG | ("拥有舰船: {'M-296', '射水鱼', 'U-81'}",)
+23:48:46 autowsgr  DEBUG | ("当前最优：['', 'M-296', '射水鱼', 'U-81', '', '', '']",)
+23:48:46 autowsgr  DEBUG | ('click (0.703 0.926)',)
+23:48:48 autowsgr  DEBUG | ("编队更改为：['', 'M-296', '射水鱼', 'U-81', '', '', '']",)
+23:48:49 autowsgr  INFO  | 舰船识别结果为: [None, None, None, None, None, None, None]
+23:48:49 autowsgr  INFO  | 等级识别结果: [None, None, None, None, None, None, None]
+23:48:49 autowsgr  DEBUG | ('更改1号位舰船为 M-296',)
+23:48:49 autowsgr  DEBUG | ('click (0.058 0.411)',)
+23:48:51 autowsgr  DEBUG | ("原始OCR结果: [((np.float64(525.0), np.float64(36.0)), '0-81', np.float64(0.5655174255371094))]",)
+23:48:51 autowsgr  DEBUG | ("修正OCR结果：[([np.float64(262.0), np.float64(18.0)], 'U-81', np.float64(0.5655174255371094))]",)
+23:48:51 autowsgr  INFO  | 更改编队可用舰船：['U-81']
